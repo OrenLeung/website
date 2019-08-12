@@ -14,7 +14,7 @@ class Landing extends Component {
 						/>
 					</Cell>
 					<div className="banner-text">
-						<h1>Full Stack Web Developer</h1>
+						<h1>Software Developer</h1>
 
 						<hr />
 						<p>React | TensorFlow | Computer Vision | Flutter | Express.js</p>

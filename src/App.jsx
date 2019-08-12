@@ -19,10 +19,10 @@ class App extends Component {
 						scroll
 					>
 						<Navigation>
-							<Link to="/resume">Resume</Link>
-							<Link to="/aboutme">About Me</Link>
 							<Link to="/projects">Projects</Link>
-							<Link to="/contact">Contact</Link>
+							{/* 
+ 							<Link to="/contact">Contact</Link>
+							*/}
 						</Navigation>
 					</Header>
 					<Drawer
@@ -33,10 +33,10 @@ class App extends Component {
 						}
 					>
 						<Navigation>
-							<Link to="/resume">Resume</Link>
-							<Link to="/aboutme">About Me</Link>
 							<Link to="/projects">Projects</Link>
-							<Link to="/contact">Contact</Link>
+							{/* 
+ 							<Link to="/contact">Contact</Link>
+							*/}
 						</Navigation>
 					</Drawer>
 					<Content>
